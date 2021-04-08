@@ -1,4 +1,4 @@
-## URL Uploader Bot Infotel
+## URL Uploader Bot Infotel repo
 ---
 
 An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
